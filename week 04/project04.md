@@ -56,19 +56,19 @@ And so are you!
 
 For your project, impliment one of the following Mad Libs.  Your code will be in the same structure as the sample code above (ie., ask questions, get answers and then create the resulting story).  You can format the resulting Mad Lib any way you like as long as it can be read.
 
-![Sample Mad Lib 1](./spring1.pdf)
+[Sample Mad Lib 1](spring1.pdf)
 
-![Sample Mad Lib 2](spring2.pdf)
+[Sample Mad Lib 2](spring2.pdf)
 
-![Sample Mad Lib 3](spring3.pdf)
+[Sample Mad Lib 3](spring3.pdf)
 
-![Sample Mad Lib 4](spring4.pdf)
+[Sample Mad Lib 4](spring4.pdf)
 
-![Sample Mad Lib 5](spring5.pdf)
+[Sample Mad Lib 5](spring5.pdf)
 
-![Sample Mad Lib 6](spring6.pdf)
+[Sample Mad Lib 6](spring6.pdf)
 
-![Sample Mad Lib 7](spring7.pdf)
+[Sample Mad Lib 7](spring7.pdf)
 
 
 # 4 - Submitting
