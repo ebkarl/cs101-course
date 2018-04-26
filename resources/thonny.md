@@ -9,7 +9,7 @@ I will be using the program Thonny during class time to work through programming
 
 Thonny can be downloaded for Windows or Mac computers. 
 
-1. Go to the website [Thonny.com](www.thonny.org).
+1. Go to the website [Thonny.org](www.thonny.org).
 1. Select which computer type you have (Windows or Mac).  
 1. There is a download link to the top right of the main webpage.
 
