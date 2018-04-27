@@ -25,7 +25,7 @@ This project will implement a simple Mab Lib story.  Please refer to [Mad Lib](h
 
 ## 3.1 - Sample Code
 
-Here is a sample Mad Lib program.  Please copy it in Thonny or your online Python editor.  It's here so you can run it to see how it works.
+Here is a sample Mad Lib program written in Python 3.  Please copy it in Thonny or your online Python editor.  It's here so you can run it to see how it works.
 
 ```python
 adjective1 = input("Tell me an adjective, and click enter. ")
