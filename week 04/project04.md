@@ -9,7 +9,7 @@ The following project will require you write and run your own Python code.  Ther
 
 - Thonny on your computer.
 - Online sites such as https://www.pythonanywhere.com/ or https://www.trinket.io/.  You are able to create free accounts on these websites.
-- You are free to write your project in either version 2 or 3 of Python.
+- You are free to write your project in either version 2 or 3 of Python. However, I would prefer you write your project using Python 3.  Just remember what the differences are between version 2 and 3.
 
 
 # 1 - Objectives
