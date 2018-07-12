@@ -12,12 +12,12 @@
 # 
 # Example output:
 # 
-# Number of non-blank lines      : 32776
+# Number of non-blank lines      : 25887
 # Count of "Mormon" words        : 48
 # Count of "God" words           : 1686
 # Count of "And it came to pass" : 1092
 # Average line length            : 43.59168293873566
-# Number letter "e"              : 144848
+# Number letter "e"              : 145062
 # *****************************************************************
 
 def doesContain(text, line):
