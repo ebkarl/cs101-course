@@ -19,7 +19,7 @@ Description:
 
 # TODO -> Create two variables
 #         1) givenName that contains your first name
-#         2) surame that contains your surname
+#         2) surname that contains your surname
 #      -> Display both on one line with a space between them (ie., John Brown)
 
 
@@ -71,10 +71,13 @@ value3 = 52
 # TODO -> Divide 10 by 3 and display the answer as a float
 
 
-# TODO -> Divide 10 by 3 and display the reminder as an integer
+# TODO -> Divide 10 by 3 and display the remainder (Modulo) as an integer
 
 
 # TODO -> Write this number game in Python code. 
+#         Create a variable to hold an integer and
+#         use math operators to change that variable to get
+#         the final answer.
 #
 #         Take a number. 
 #         Double it.
@@ -82,10 +85,13 @@ value3 = 52
 #         Subtract 3.
 #         Divide by 2. 
 #         Subtract your original number.
-#         Your answer should be 3.
+#         Display your answer. Should be 3.
 
 
 # TODO -> Write this number game in Python code. 
+#         Create a variable to hold an integer and
+#         use math operators to change that variable to get
+#         the final answer.
 #
 #         Take a number. 
 #         Double it.
@@ -93,7 +99,7 @@ value3 = 52
 #         Subtract 4.
 #         Divide by 2. 
 #         Subtract your original number.
-#         Your answer should be 4.
+#         Display your answer. Should be 4.
 
 
 # ----------------------------------------------------------------------------
