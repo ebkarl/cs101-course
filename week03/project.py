@@ -13,7 +13,7 @@ Instructions:
 
 Create a simple monthly budget.
 
-1) Create a simple 5 item budget
+1) Create a simple 6 item budget
 
 2) Each item MUST have three variables:
   a) Item's name as a string (ie., 'movies', 'food', etc...)
@@ -21,7 +21,22 @@ Create a simple monthly budget.
   c) Monthly amount as a floating point.
      (You MUST calculate this value based on yearly amount)
 
-  In Summary
+  For Example for a possible first item in the budget
+
+      item1 = 'Movies'
+      yearly1 = 1000
+      monthly1 = yearly1 / 12
+
+  The output for the budget with the values above would look like:
+
+      Monthly Budget
+      =================================================
+      Item                     Month               Year
+      =================================================
+      Movies              $    83.33           $   1000
+
+
+  In Summary, for each item in the budget:
     - create a variable for the item's name
     - create a variable for yearly amount for the item
     - create a variable and calculate (use math) the monthly amount 
@@ -40,14 +55,15 @@ Create a simple monthly budget.
 
 5) Notice that the columns of values are right aligned.
 
-6) You will end up with a total of 19 variables.  All variable names
+6) You will end up with a total of 21 variables.  All variable names
    must be meaningful (no single letters or abbreviations)
           5 item names
           6 monthly values
           6 yearly values
           2 totals
+          2 random values
           ----------------
-          19 variables
+          21 variables
 
 7) There is a variable for a random value in the given code.  You can
    leave the text "Random Value" in the output.
@@ -76,13 +92,9 @@ import random
 
 
 
-# Do not change this line of code
+# Do not change these lines of code
 randomYearAmount = random.randint(10, 100000)
-
-# TODO -> uncomment this code to calculate randomMonth valueAmount
-#         Change "?Amount" to convert the above variable to a monthly
-#         value.
-# randomMonthAmount = ?Amount
+randomMonthAmount = randomYearAmount / 12
 
 
 # TODO -> add your budget print() statements here
