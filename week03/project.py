@@ -36,7 +36,7 @@ Create a simple monthly budget.
    in your budget output as the last item.
 
 4) Create two variables to total the monthly and yearly amounts
-   and display them in the budget.
+   and display them in the budget.  You need to use math.
 
 5) Notice that the columns of values are right aligned.
 
@@ -48,6 +48,9 @@ Create a simple monthly budget.
           2 totals
           ----------------
           19 variables
+
+7) There is a variable for a random value in the given code.  You can
+   leave the text "Random Value" in the output.
 
 Example Output:
 
@@ -77,6 +80,8 @@ import random
 randomYearAmount = random.randint(10, 100000)
 
 # TODO -> uncomment this code to calculate randomMonth valueAmount
+#         Change "?Amount" to convert the above variable to a monthly
+#         value.
 # randomMonthAmount = ?Amount
 
 
