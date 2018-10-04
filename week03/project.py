@@ -61,9 +61,8 @@ Create a simple monthly budget.
           6 monthly values
           6 yearly values
           2 totals
-          2 random values
           ----------------
-          21 variables
+          19 variables
 
 7) There is a variable for a random value in the given code.  You can
    leave the text "Random Value" in the output.

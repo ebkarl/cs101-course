@@ -1,6 +1,6 @@
 """
 Course: CS101
-File: team02.py
+File: team04.py
 Author: Brother Comeau
 
 Description:
@@ -54,7 +54,8 @@ import random
 
 # TODO -> Given the following value, calculate the number of digits it has
 value = random.randint(1, 100000)
-print('{} has {} digits'.format(value, 0))
+digits = 0   # Replace 0 with your code
+print('{} has {} digits'.format(value, digits))
 
 # ----------------------------------------------------------------------------
 # min, max and totals
@@ -81,4 +82,32 @@ value3 = random.randint(1, 100000)
 # powers
 
 # TODO -> Display the answer of 3.14159 to the power of 9
+
+
+# ----------------------------------------------------------------------------
+# Extra - Do searches in the Internet
+
+
+# TODO -> Find how to display the type of a variable.
+
+
+
+# TODO -> Find how to display the sub string '123' in the following
+#         String.
+str = 'abc123efg' 
+
+
+
+# TODO -> Find how to remove extra spaces at the beginning and end of
+#         a string and display the results.
+str = '   House, Tree, Ground    '
+
+
+
+# TODO -> Find how to replace all of the '.' to be a spaces.
+str = '.....Hello.World!....'
+
+
+# TODO -> Find how to capitalize the following string and display it
+str = 'united states'
 

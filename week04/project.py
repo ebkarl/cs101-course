@@ -16,10 +16,12 @@ Expand the simple monthly budget from last project.
 Changes to last project
 
 1) Instead of assigning the item variables directly.  You will
-   so using the input() function to prompt the user for:
+   do so using the input() function to prompt the user for:
 
    a) Item name (as a string)
    b) Item monthly amount (as a float)
+
+   You will calculate the yearly amount for each item.
 
 2) You will be displaying the min, max and average monthly values 
    At the end ofthe budget.

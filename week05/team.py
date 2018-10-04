@@ -11,6 +11,9 @@ Description:
   class if you need more time.
 """
 
+# In the following team activity code, after you create a function
+# call it so you test that it works.
+
 # TODO -> Create a function called displayName() that displays your
 #         name to the screen (ie., use print() statement)
 
@@ -56,4 +59,23 @@ Description:
 # TODO -> Create a function that prompts the user for three integers
 #         and return all three to the code that calls it.  Display the three
 #         values.
+
+
+# ---------------------------------------------------------------------
+# Extra - Internet Searches
+
+
+# TODO -> What does the command dir() do?  How would you use it?
+
+
+# TODO -> What does the command help() do?  How would you use it?
+
+
+# TODO -> What does the command zfill() do?  How would you use it?
+
+
+# TODO -> Given the following string, count and number of 'the's in it.
+str = 'the cat jumped over the toy and hit the other cat'
+
+
 

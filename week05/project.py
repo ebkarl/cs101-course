@@ -11,11 +11,6 @@ Description:
 """
 Instructions:
 
-TBA
-"""
-
-"""
-TODO:
 1) Create a function to display the welcome message at the start
    of the program.
 2) You need to create a function that prompts the user for the items' name.
@@ -61,7 +56,12 @@ Totals             $   415.54           $ 4986.48
 
 """
 
-# Add your code here - this is your main function or code
+# Add your functions here
+
+
+
+
+# Add your main here
 # You will be calling your functions from here.
 
 
