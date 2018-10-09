@@ -21,7 +21,9 @@ Changes to last project
    a) Item name (as a string)
    b) Item monthly amount (as a float)
 
-   You will calculate the yearly amount for each item.
+   You will calculate the yearly amount for each item.  Notice that
+   all of the values are floats and are displayed with cents (this is
+   money).
 
 2) You will be displaying the min, max and average monthly values 
    At the end ofthe budget.
