@@ -10,4 +10,117 @@ Description:
   You are free to continue working on this activity after class if you need more time.
 """
 
-# TBA
+# Here is an example of prompting the user for a value and displaying True
+# is the value is over 10,  It display False if it isn't
+
+# value = int(input('Enter value: '))
+# print(value > 10)
+
+
+# TODO -> Complete the following function (ie., remove the 'pass' and add your code)
+
+def isValue100(value):
+	pass
+
+print('isValue100(99)  =', isValue100(99))
+print('isValue100(100) =', isValue100(100))
+print('isValue100(101) =', isValue100(101))
+
+# TODO -> Complete the following function (ie., remove the 'pass' and add your code)
+
+def isValueOver100(value):
+	pass
+
+print()
+print('isValueOver100(100) =', isValueOver100(100))
+print('isValueOver100(99)  =', isValueOver100(99))
+print('isValueOver100(101) =', isValueOver100(101))
+
+# TODO -> Complete the following function (ie., remove the 'pass' and add your code)
+
+def isValueLessThanEqual100(value):
+	pass
+
+print()
+print('isValueLessThanEqual100(100) =', isValueLessThanEqual100(100))
+print('isValueLessThanEqual100(99)  =', isValueLessThanEqual100(99))
+print('isValueLessThanEqual100(101) =', isValueLessThanEqual100(101))
+
+# TODO -> Complete the following function (ie., remove the 'pass' and add your code)
+
+def isValue100or200(value):
+	pass
+
+print()
+print('isValue100or200(100) =', isValue100or200(100))
+print('isValue100or200(99)  =', isValue100or200(99))
+print('isValue100or200(200) =', isValue100or200(200))
+
+# TODO -> Complete the following function (ie., remove the 'pass' and add your code)
+
+def notTrue(value):
+	pass
+
+print()
+print('notTrue(True)  =', notTrue(True))
+print('notTrue(False) =', notTrue(False))
+print('notTrue(200)   =', notTrue(200))
+print('notTrue(0)     =', notTrue(0))
+
+
+# TODO -> Complete the following function (ie., remove the 'pass' and add your code)
+
+def areYouHappyAndKnowIt(happy, knowit):
+	pass
+
+print()
+print('areYouHappyAndKnowIt(T, T) =', areYouHappyAndKnowIt(True, True))
+print('areYouHappyAndKnowIt(F, T) =', areYouHappyAndKnowIt(False, True))
+print('areYouHappyAndKnowIt(T, F) =', areYouHappyAndKnowIt(True, False))
+print('areYouHappyAndKnowIt(F, F) =', areYouHappyAndKnowIt(False, False))
+
+
+# TODO -> Complete the following function (ie., remove the 'pass' and add your code)
+
+def eitherAorB(letter):
+	pass
+
+print()
+print("eitherAorB('9') =", eitherAorB('9'))
+print("eitherAorB('A') =", eitherAorB('A'))
+print("eitherAorB('B') =", eitherAorB('B'))
+print("eitherAorB('b') =", eitherAorB('b'))
+
+
+# TODO -> Complete the following function (ie., remove the 'pass' and add your code)
+
+def notAandB(letter):
+	pass
+
+print()
+print("notAandB('9') =", notAandB('9'))
+print("notAandB('A') =", notAandB('A'))
+print("notAandB('B') =", notAandB('B'))
+print("notAandB('b') =", notAandB('b'))
+
+# --------------------------------------------------------------
+# Extra - Searching Internet
+
+# Complete these functions and test them by calling them
+
+def isTextAllLetters(text):
+	pass
+
+
+def isTextAllDigits(text):
+	pass
+
+
+# TODO -> Write a program to prompt the user for a number
+#         and your code indicates if the number is a multiple
+#         of 3.
+#
+# 			Enter number: 300
+# 			Is 3 a multiple of 300: True
+
+# Add your code here
