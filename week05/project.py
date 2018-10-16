@@ -13,11 +13,12 @@ Instructions:
 
 1) Create a function to display the welcome message at the start
    of the program.
-2) You need to create a function that prompts the user for the items' name.
-3) You need to create a function that prompts the user for the items' monthly amount.
-4) You need a function to prompt the users' first name.
-5) You need a function to prompt the users' surname name.
-6) Display the monthly budget in main after calling the
+2) You need to create a function that prompts the user for the current month.
+3) You need to create a function that prompts the user for the items' name.
+4) You need to create a function that prompts the user for the items' monthly amount.
+5) You need a function to prompt the users' first name.
+6) You need a function to prompt the users' surname name.
+7) Display the monthly budget in main after calling the
    functions above.
 
 You will end up with 5 functions in this project. Name these functions
