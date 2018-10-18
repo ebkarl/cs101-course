@@ -21,7 +21,7 @@ Instructions:
 7) Display the monthly budget in main after calling the
    functions above.
 
-You will end up with 5 functions in this project. Name these functions
+You will end up with 6 functions in this project. Name these functions
 correctly (ie., use full words that describe what they do)
 
 Example Output:
