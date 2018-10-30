@@ -10,12 +10,18 @@ Description:
   You are free to continue working on this activity after class if you need more time.
 """
 
-# Here is an example of prompting the user for a value and displaying True
-# is the value is over 10,  It display False if it isn't
+"""
+Instructions:
 
-# value = int(input('Enter value: '))
-# print(value > 10)
+You will be adding code to the following functions.  Each of these functions
+will return True or False.
 
+Here is an example of prompting the user for a value and displaying True
+is the value is over 10,  It display False if it isn't
+
+value = int(input('Enter value: '))
+print(value > 10)
+"""
 
 # TODO -> Complete the following function (ie., remove the 'pass' and add your code)
 
@@ -94,14 +100,14 @@ print("eitherAorB('b') =", eitherAorB('b'))
 
 # TODO -> Complete the following function (ie., remove the 'pass' and add your code)
 
-def notAandB(letter):
+def notAorB(letter):
 	pass
 
 print()
-print("notAandB('9') =", notAandB('9'))
-print("notAandB('A') =", notAandB('A'))
-print("notAandB('B') =", notAandB('B'))
-print("notAandB('b') =", notAandB('b'))
+print("notAorB('9') =", notAorB('9'))
+print("notAorB('A') =", notAorB('A'))
+print("notAorB('B') =", notAorB('B'))
+print("notAorB('b') =", notAorB('b'))
 
 # --------------------------------------------------------------
 # Extra - Searching Internet
@@ -113,6 +119,13 @@ def isTextAllLetters(text):
 
 
 def isTextAllDigits(text):
+	pass
+
+
+def numberOfLetters(text, letter):
+    """Given a string and a letter, return the number if letters found in the string.
+       numberOfLetters('abc111222abc', 'a') returns 2
+    """
 	pass
 
 

@@ -12,7 +12,7 @@ Description:
 Instructions:
 
 This project contains code in the main part of the program.  Do NOT
-Change any of this code.  Your job to implement the missing functions
+Change any of this code.  Your job is to implement the missing functions
 that the main code calls.  The current code for this project will 
 not compile and run until you create the missing functions.  
 You must pass all of the tests.
@@ -75,14 +75,14 @@ import sys
 # =====================================================================
 # =====================================================================
 # Main Code - DO NOT EDIT.  You can comment code out while you are writting
-#             the functions above.  However, you must have anything 
+#             the functions above.  However, you must have everything 
 #             un-commented when you submit your project for full points.
 
 def test(text):
     print('{:<40}: {}'.format(text, 'Passed' if eval(text) else '*** FAILED ***'))
 
 
-print('You need to implement the following missing functions and have them')
+print('You need to implement the missing functions and have them')
 print('calculate and return the correct value to pass all of the tests.\n')
 
 test('    isAgeOver20(21)')
