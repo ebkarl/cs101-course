@@ -99,7 +99,7 @@ print("eitherAorB('b') =", eitherAorB('b'))
 
 
 # TODO -> Complete the following function (ie., remove the 'pass' and add your code)
-
+#         not (a or b)
 def notAorB(letter):
 	pass
 
@@ -123,7 +123,7 @@ def isTextAllDigits(text):
 
 
 def numberOfLetters(text, letter):
-    """Given a string and a letter, return the number if letters found in the string.
+    """Given a string and a letter, return the "count" of letters found in the string.
        numberOfLetters('abc111222abc', 'a') returns 2
     """
 	pass
