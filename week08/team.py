@@ -118,7 +118,7 @@ assert(isFactor(21, 3) == True)
 happy = True
 
 # TODO -> convert the following If statement to be one line 
-#         (There at least are two solutions)
+#         (There are at least are two solutions)
 if (happy):
 	print('happy')
 else:
