@@ -50,7 +50,7 @@ total = 735
 # TODO -> display 0 to 9
 
 
-# TODO -> display 0 to 9 on one list
+# TODO -> display 0 to 9 on one line
 
 
 # TODO -> display range 11 to 22
