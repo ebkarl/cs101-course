@@ -12,32 +12,33 @@ Description:
 Instructions:
 
 You will be writing a program to roll 100,000 virtual dice.  The prorgam
-will keep track of the following and then display it to the screen;
+will keep track of the following and then display it to the screen.  You
+will be "rolling" one die at a time.
 
 1) The number of times each dice side/number is rolled.
 
 2) The number of "three-in-a-row" sequences
    Example 1: 
-        if the program rolls 4, 5, 2, 2, 2, 4, then
+        if the program rolls ..., 4, 5, 2, 2, 2, 4, ... then
         one sequence of three in a row.
 
    Example 2: 
-        if the program rolls 4, 5, 2, 2, 2, 2, 4, then
+        if the program rolls ..., 4, 5, 2, 2, 2, 2, 4, ... then
         two sequences of three in a row.
 
 3) The number of "sequence of three".
    Example 1: 
-        if the program rolls 3, 5, 2, 3, 4, 8, then
+        if the program rolls ..., 3, 5, 2, 3, 4, 2, ... then
         one sequence (2, 3, 4).
 
    Example 2: 
-        if the program rolls 3, 5, 2, 3, 4, 5, 8, then
+        if the program rolls ..., 3, 5, 2, 3, 4, 5, 2, ... then
         two sequences (2, 3, 4) and (3, 4, 5)
 
 
 Misc Informaiton:
 
-    # To "roll a dice"
+    # To "roll a dice", values 1 to 6
     roll = random.randint(1, 6)
 
 
