@@ -35,7 +35,9 @@ the program needs to roll to get a Yathzee (ie., all 5 dice the same)
 
       Add up the rolls in each run and average the results
 
-5) You are free to create other functions in your project as you need them.
+5) You are free to create other functions in your project as you need them.  Instead
+   of doing 1,000 runs, try a smallest number first such as 10 to make sure you
+   code is working.
 
 Sample Output:
 
