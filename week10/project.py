@@ -18,7 +18,7 @@ the program needs to roll to get a Yahtzee (ie., all 5 dice the same)
    that you will use in the program.  Call this function as many times
    as you need.
 
-2) You must implement the function isYathzee().  This function will return
+2) You must complete the function isYathzee().  This function will return
    True if the 5 dice make a Yahtzee, otherwise return False.
 
 3) Write code to use getRoll() and isYathzee() to solve this project.
@@ -36,7 +36,7 @@ the program needs to roll to get a Yahtzee (ie., all 5 dice the same)
       Add up the rolls in each run and average the results
 
 5) You are free to create other functions in your project as you need them.  Instead
-   of doing 1,000 runs, try a smallest number first such as 10 to make sure you
+   of doing 1,000 runs, try a smallert number first such as 10 to make sure your
    code is working.
 
 Sample Output:
@@ -61,3 +61,23 @@ def getRoll():
 def isYahtzee(d1, d2, d3, d4, d5):
   pass
 
+"""
+Logic for the main code
+
+Part 1:
+=======
+
+while (not yathzee)
+  get a new roll
+  increase count to keep track of rolls
+display results
+
+
+Part 2:
+=======
+
+for 1,000 tries
+  do "part 1" above
+  keep track of the number of rolls
+display results
+"""
