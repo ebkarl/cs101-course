@@ -12,14 +12,14 @@ Description:
 Instructions:
 
 Your project will simulate rolling 5 dice and count how many times
-the program needs to roll to get a Yathzee (ie., all 5 dice the same)
+the program needs to roll to get a Yahtzee (ie., all 5 dice the same)
 
 1) You are given the function getRoll() that will return 5 dice values
    that you will use in the program.  Call this function as many times
    as you need.
 
 2) You must implement the function isYathzee().  This function will return
-   True if the 5 dice make a Yathzee, otherwise return False.
+   True if the 5 dice make a Yahtzee, otherwise return False.
 
 3) Write code to use getRoll() and isYathzee() to solve this project.
 
@@ -27,11 +27,11 @@ the program needs to roll to get a Yathzee (ie., all 5 dice the same)
    this average, simulate 1,000 "runs".
 
    For example:
-      Run 1 takes 2013 rolls to get Yathzee
-      Run 2 takes 981 rolls to get Yathzee
-      Run 3 takes 1655 rolls to get Yathzee
+      Run 1 takes 2013 rolls to get Yahtzee
+      Run 2 takes 981 rolls to get Yahtzee
+      Run 3 takes 1655 rolls to get Yahtzee
                       :
-      Run 1000 takes 3601 rolls to get Yathzee
+      Run 1000 takes 3601 rolls to get Yahtzee
 
       Add up the rolls in each run and average the results
 
@@ -41,8 +41,8 @@ the program needs to roll to get a Yathzee (ie., all 5 dice the same)
 
 Sample Output:
 
-Number of rolls to get a Yathzee = 941
-Average rolls to get a Yathzee (1000 runs) = 1277.204
+Number of rolls to get a Yahtzee = 941
+Average rolls to get a Yahtzee (1000 runs) = 1277.204
 
 """
 
@@ -58,6 +58,6 @@ def getRoll():
 
 # Add your code below
 
-def isYathzee(d1, d2, d3, d4, d5):
+def isYahtzee(d1, d2, d3, d4, d5):
   pass
 
